@@ -61,7 +61,6 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 
 ## 🔗 My Profiles
 
-- LeetCode: https://leetcode.com/u/Anureet_kaur/
 - LinkedIn: https://www.linkedin.com/in/anureet-kaur-b033a8301/
 
 ---
