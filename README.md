@@ -66,3 +66,27 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ---
 
 ⭐ Feel free to explore the repository and follow my DSA journey!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+<!---LeetCode Topics End-->
