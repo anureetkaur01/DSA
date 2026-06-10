@@ -72,10 +72,12 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -84,9 +86,19 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
