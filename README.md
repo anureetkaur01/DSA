@@ -84,6 +84,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
@@ -107,4 +108,16 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
