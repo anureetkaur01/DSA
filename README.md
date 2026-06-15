@@ -92,6 +92,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/anureetkaur01/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
