@@ -1,24 +1,24 @@
 class Solution {
 public:
+   
     string processStr(string s) {
-        string res;
-
-        for (char ch : s) {
-            if (ch >= 'a' && ch <= 'z') {
-                res += ch;
-            }
-            else if (ch == '*') {
-                if (!res.empty())
-                    res.pop_back();
-            }
-            else if (ch == '#') {
-                res += res;
-            }
-            else if (ch == '%') {
-                reverse(res.begin(), res.end());
-            }
+        string result="";
+       for(int i=0;i<s.length();i++){
+        if(s[i]>='a' && s[i]<='z')
+        result+=s[i];
+        if(s[i]=='*'){
+            if(!result.empty())
+            result.pop_back();
+            else continue;
         }
+        if(s[i]=='#')
+        {
+           result+=result;
+        }
+        if(s[i]=='%')
+        reverse(result.begin(),result.end());
 
-        return res;
+       }
+       return result;
     }
 };
