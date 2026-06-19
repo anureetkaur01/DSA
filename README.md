@@ -82,6 +82,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anureetkaur01/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/anureetkaur01/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/anureetkaur01/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -179,4 +180,8 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/anureetkaur01/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/anureetkaur01/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/anureetkaur01/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
