@@ -3,11 +3,12 @@ public:
     int largestAltitude(vector<int>& gain) {
         int maxalt=0;
         int n=gain.size();
-        vector<int>arr(n+1);
-        arr.push_back(0);
+      //  vector<int>arr(n+1);
+       // arr.push_back(0);
+       int point=0;
         for(int i=0;i<n;i++){
-            arr[i+1]=arr[i]+gain[i];
-            maxalt=max(maxalt,arr[i+1]);
+           point+=gain[i];
+            maxalt=max(maxalt,point);
         }
         return maxalt;
     }
