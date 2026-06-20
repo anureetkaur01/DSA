@@ -101,9 +101,8 @@ vector<int>PGEE(vector<int>arr){
     }
 
     long long subArrayRanges(vector<int>& nums) {
-        long long maxsums=sumSubarrayMax(nums);
-        long long minsums=sumSubarrayMins(nums);
-        long long diff=(maxsums-minsums);
-        return diff;
+     return sumSubarrayMax(nums)-sumSubarrayMins(nums);
+        //long long diff=(maxsums-minsums);
+       // return diff;
     }
 };
