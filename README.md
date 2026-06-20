@@ -86,6 +86,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1732-find-the-highest-altitude](https://github.com/anureetkaur01/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1929-concatenation-of-array](https://github.com/anureetkaur01/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0503-next-greater-element-ii](https://github.com/anureetkaur01/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/anureetkaur01/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anureetkaur01/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
