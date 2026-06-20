@@ -1,112 +1,51 @@
 class Solution {
-private:
-    
-    vector<int> findNSE(vector<int> &arr) {
-        
-        // Size of array
-        int n = arr.size();
-        
-        // To store the answer
-        vector<int> ans(n);
-        
-        // Stack 
-        stack<int> st;
-        
-        // Start traversing from the back
-        for(int i = n - 1; i >= 0; i--) {
-            
-            // Get the current element
-            int currEle = arr[i];
-            
-            
-            while(!st.empty() && arr[st.top()] >= arr[i]){
-                st.pop();
-            }
-            
-            // Update the answer
-            ans[i] = !st.empty() ? st.top() : n;
-            
-            
-            st.push(i);
-        }
-        
-        // Return the answer
-        return ans;
-    }
-    
-   
-    vector<int> findPSEE(vector<int> &arr) {
-        
-        // Size of array
-        int n = arr.size();
-        
-        // To store the answer
-        vector<int> ans(n);
-        
-        // Stack 
-        stack<int> st;
-        
-        // Traverse on the array
-        for(int i=0; i < n; i++) {
-            
-            // Get the current element
-            int currEle = arr[i];
-            
-        
-            while(!st.empty() && arr[st.top()] > arr[i]){
-                st.pop();
-            }
-            
-            // Update the answer
-            ans[i] = !st.empty() ? st.top() : -1;
-            
-        
-            st.push(i);
-        }
-        
-        // Return the answer
-        return ans;
-    }
-    
 public:
-
-   
-    int sumSubarrayMins(vector<int> &arr) {
-        
-        vector<int> nse = 
-            findNSE(arr);
-        
-        vector<int> psee =
-            findPSEE(arr);
-        
-        // Size of array
-        int n = arr.size();
-        
-        int mod = 1e9 + 7; // Mod value
-        
-        // To store the sum
-        int sum = 0;
-        
-        // Traverse on the array
-        for(int i=0; i < n; i++) {
-            
-            // Count of first type of subarrays
-            int left = i - psee[i];
-            
-            // Count of second type of subarrays
-            int right = nse[i] - i;
-            
-           
-            long long freq = left*right*1LL;
-            
-            // Contribution due to current element 
-            int val = (freq*arr[i]*1LL) % mod;
-            
-            // Updating the sum
-            sum = (sum + val) % mod;
+vector<int>NSE(vector<int>arr){
+    int n=arr.size();
+    vector<int>nse(n);
+    stack<int>st;
+    for(int i=n-1;i>=0;i--){
+        while(!st.empty() && arr[st.top()]>=arr[i]){
+            st.pop();
         }
-        
-        // Return the computed sum
+        if(st.empty())
+        nse[i]=n;
+        else nse[i]=st.top();
+
+        st.push(i);
+    }
+    return nse;
+}
+
+vector<int>PSEE(vector<int>arr){
+    int n=arr.size();
+    vector<int>psee(n);
+    stack<int>st;
+    for(int i=0;i<n;i++){
+        while(!st.empty() && arr[st.top()]>arr[i]){
+            st.pop();
+        }
+        if(st.empty())
+        psee[i]=-1;
+        else psee[i]=st.top();
+
+        st.push(i);
+    }
+    return psee;
+}
+
+    int sumSubarrayMins(vector<int>& arr) {
+        vector<int>nse=NSE(arr);
+        vector<int>psee=PSEE(arr);
+        int sum=0;
+        int mod=1e9+7;
+        int n=arr.size();
+        for(int i=0;i<n;i++){
+         int right=nse[i]-i;
+         int left=i-psee[i];
+         long long freq=((long long)left*right*arr[i])% mod;
+         sum=(freq+sum)%mod;
+        }
         return sum;
     }
 };
