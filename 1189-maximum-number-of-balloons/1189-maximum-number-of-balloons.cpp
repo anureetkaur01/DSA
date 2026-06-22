@@ -6,15 +6,7 @@ public:
         for(int i=0;i<text.length();i++){
           mp[text[i]]++;
         }
-        while(mp['b']>=1 && mp['a']>=1 && mp['l']>=2 && mp['o']>=2 && mp['n']>=1)
-         {
-            mp['b']-=1;
-            mp['a']-=1;
-            mp['l']-=2;
-            mp['o']-=2;
-            mp['n']-=1;
-            count++;
-         }
+        count=min({mp['b'],mp['a'],mp['l']/2,mp['o']/2,mp['n']});
          return count;
     }
 };
