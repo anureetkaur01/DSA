@@ -90,6 +90,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1929-concatenation-of-array](https://github.com/anureetkaur01/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anureetkaur01/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0460-lfu-cache](https://github.com/anureetkaur01/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1732-find-the-highest-altitude](https://github.com/anureetkaur01/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/anureetkaur01/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anureetkaur01/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +239,16 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/anureetkaur01/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
