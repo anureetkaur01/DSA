@@ -108,6 +108,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anureetkaur01/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/anureetkaur01/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -204,6 +205,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/anureetkaur01/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anureetkaur01/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/anureetkaur01/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
