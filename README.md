@@ -72,6 +72,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/anureetkaur01/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anureetkaur01/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/anureetkaur01/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/anureetkaur01/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -206,6 +207,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/anureetkaur01/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anureetkaur01/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anureetkaur01/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -262,4 +264,8 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anureetkaur01/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/anureetkaur01/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
