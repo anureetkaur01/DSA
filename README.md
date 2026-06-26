@@ -136,6 +136,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anureetkaur01/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anureetkaur01/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0151-reverse-words-in-a-string](https://github.com/anureetkaur01/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anureetkaur01/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/anureetkaur01/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/anureetkaur01/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Prefix Sum
@@ -222,6 +224,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
