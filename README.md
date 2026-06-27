@@ -91,6 +91,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1929-concatenation-of-array](https://github.com/anureetkaur01/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anureetkaur01/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anureetkaur01/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
@@ -103,6 +104,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0460-lfu-cache](https://github.com/anureetkaur01/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anureetkaur01/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
@@ -268,4 +270,8 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/anureetkaur01/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
