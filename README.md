@@ -212,6 +212,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0014-longest-common-prefix](https://github.com/anureetkaur01/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anureetkaur01/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anureetkaur01/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0796-rotate-string](https://github.com/anureetkaur01/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/anureetkaur01/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -274,4 +275,8 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/anureetkaur01/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
