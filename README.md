@@ -88,6 +88,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1732-find-the-highest-altitude](https://github.com/anureetkaur01/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anureetkaur01/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/anureetkaur01/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anureetkaur01/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -132,6 +133,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anureetkaur01/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anureetkaur01/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
