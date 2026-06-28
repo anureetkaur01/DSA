@@ -98,6 +98,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anureetkaur01/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anureetkaur01/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/anureetkaur01/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
@@ -211,6 +212,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anureetkaur01/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/anureetkaur01/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anureetkaur01/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anureetkaur01/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -246,6 +248,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anureetkaur01/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/anureetkaur01/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
