@@ -93,6 +93,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anureetkaur01/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anureetkaur01/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anureetkaur01/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -129,6 +130,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anureetkaur01/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +265,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/anureetkaur01/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +315,12 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0094-binary-tree-inorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
