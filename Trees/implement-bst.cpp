@@ -48,6 +48,21 @@ return new BSTNODE(val);
         cout<<root->info<<" ";
 
     }
+    BSTNODE* getMax(BSTNODE *root){
+        if(root->right==NULL)
+        return root;
+        return getMax(root->right);
+    }
+    BSTNODE *find(BSTNODE *root,int wanted){
+        if(root==NULL)
+        return NULL;
+        if(root->info==wanted)
+        return root;
+        if(wanted<root->info)
+        return find(root->left,wanted);
+        else 
+        return find(root->right,wanted);
+    }
 };
 int main(){
     TREE obj;
@@ -63,6 +78,12 @@ int main(){
     obj.PreOrderTraversal(root);
     cout<<endl;
     obj.PostOrderTraversal(root);
+    BSTNODE *node=obj.getMax(root);
+    cout<<"\nMAX="<<node->info<<endl;
+    BSTNODE *node1=obj.find(root,90);
+    if(node1!=NULL)
+    cout<<"FOUND"<<node1<<endl;
+    else cout<<"NOT FOUND"<<endl;
 return 0;
     
 }
