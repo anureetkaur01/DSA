@@ -327,6 +327,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anureetkaur01/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -351,6 +352,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anureetkaur01/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -386,5 +388,6 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
