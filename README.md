@@ -330,6 +330,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anureetkaur01/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
@@ -342,6 +343,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0145-binary-tree-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -355,6 +357,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anureetkaur01/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
