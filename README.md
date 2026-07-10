@@ -99,6 +99,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anureetkaur01/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anureetkaur01/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anureetkaur01/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anureetkaur01/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -129,6 +130,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0557-reverse-words-in-a-string-iii](https://github.com/anureetkaur01/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anureetkaur01/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anureetkaur01/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -149,6 +152,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anureetkaur01/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +170,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0222-count-complete-tree-nodes](https://github.com/anureetkaur01/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +204,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0042-trapping-rain-water](https://github.com/anureetkaur01/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/anureetkaur01/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anureetkaur01/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anureetkaur01/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anureetkaur01/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -264,6 +270,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anureetkaur01/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +390,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anureetkaur01/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anureetkaur01/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anureetkaur01/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
