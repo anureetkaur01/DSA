@@ -86,6 +86,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anureetkaur01/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/anureetkaur01/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/anureetkaur01/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/anureetkaur01/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -163,6 +164,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/anureetkaur01/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/anureetkaur01/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/anureetkaur01/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -175,6 +177,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anureetkaur01/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/anureetkaur01/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anureetkaur01/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
