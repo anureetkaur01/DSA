@@ -408,6 +408,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/anureetkaur01/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/anureetkaur01/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
@@ -435,6 +436,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0104-maximum-depth-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/anureetkaur01/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/anureetkaur01/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -442,6 +444,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anureetkaur01/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/anureetkaur01/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -449,6 +452,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anureetkaur01/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/anureetkaur01/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anureetkaur01/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
