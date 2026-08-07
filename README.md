@@ -400,6 +400,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0104-maximum-depth-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -415,6 +416,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0094-binary-tree-inorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/anureetkaur01/DSA/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -433,6 +435,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0104-maximum-depth-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
