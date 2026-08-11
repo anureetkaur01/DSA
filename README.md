@@ -111,6 +111,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [2104-sum-of-subarray-ranges](https://github.com/anureetkaur01/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anureetkaur01/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anureetkaur01/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anureetkaur01/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anureetkaur01/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anureetkaur01/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -139,6 +140,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/anureetkaur01/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anureetkaur01/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anureetkaur01/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anureetkaur01/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anureetkaur01/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -190,6 +192,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/anureetkaur01/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anureetkaur01/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anureetkaur01/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anureetkaur01/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/anureetkaur01/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anureetkaur01/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
