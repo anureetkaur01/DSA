@@ -138,6 +138,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0460-lfu-cache](https://github.com/anureetkaur01/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/anureetkaur01/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anureetkaur01/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -188,6 +189,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/anureetkaur01/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/anureetkaur01/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/anureetkaur01/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anureetkaur01/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -421,6 +423,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +439,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/anureetkaur01/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/anureetkaur01/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -461,6 +465,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0450-delete-node-in-a-bst](https://github.com/anureetkaur01/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/anureetkaur01/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +476,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0104-maximum-depth-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/anureetkaur01/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/anureetkaur01/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anureetkaur01/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/anureetkaur01/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
