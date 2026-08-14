@@ -145,6 +145,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anureetkaur01/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anureetkaur01/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anureetkaur01/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anureetkaur01/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/anureetkaur01/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anureetkaur01/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/anureetkaur01/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -315,6 +316,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [1903-largest-odd-number-in-string](https://github.com/anureetkaur01/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anureetkaur01/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anureetkaur01/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anureetkaur01/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anureetkaur01/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/anureetkaur01/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/anureetkaur01/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -355,6 +357,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0239-sliding-window-maximum](https://github.com/anureetkaur01/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anureetkaur01/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anureetkaur01/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anureetkaur01/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
