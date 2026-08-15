@@ -204,6 +204,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anureetkaur01/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anureetkaur01/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/anureetkaur01/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
@@ -260,6 +261,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anureetkaur01/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/anureetkaur01/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/anureetkaur01/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anureetkaur01/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anureetkaur01/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -534,4 +536,8 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anureetkaur01/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anureetkaur01/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/anureetkaur01/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
