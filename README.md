@@ -95,6 +95,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0503-next-greater-element-ii](https://github.com/anureetkaur01/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/anureetkaur01/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/anureetkaur01/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/anureetkaur01/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/anureetkaur01/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/anureetkaur01/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -267,6 +268,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anureetkaur01/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anureetkaur01/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/anureetkaur01/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/anureetkaur01/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/anureetkaur01/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/anureetkaur01/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anureetkaur01/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
