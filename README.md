@@ -238,6 +238,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/anureetkaur01/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/anureetkaur01/DSA/tree/main/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anureetkaur01/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
