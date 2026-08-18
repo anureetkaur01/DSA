@@ -85,6 +85,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anureetkaur01/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anureetkaur01/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/anureetkaur01/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/anureetkaur01/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anureetkaur01/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/anureetkaur01/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/anureetkaur01/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -136,6 +137,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0146-lru-cache](https://github.com/anureetkaur01/DSA/tree/main/0146-lru-cache/) | Medium |
+| [0169-majority-element](https://github.com/anureetkaur01/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anureetkaur01/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -189,6 +191,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/anureetkaur01/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/anureetkaur01/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/anureetkaur01/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anureetkaur01/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -354,6 +357,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/anureetkaur01/DSA/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anureetkaur01/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/anureetkaur01/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anureetkaur01/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -389,6 +393,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0053-maximum-subarray](https://github.com/anureetkaur01/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anureetkaur01/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/anureetkaur01/DSA/tree/main/0169-majority-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anureetkaur01/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anureetkaur01/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -551,4 +556,8 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/anureetkaur01/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/anureetkaur01/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anureetkaur01/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
