@@ -94,6 +94,7 @@ To strengthen my problem-solving skills, build a strong foundation in Data Struc
 | [0283-move-zeroes](https://github.com/anureetkaur01/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anureetkaur01/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anureetkaur01/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/anureetkaur01/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anureetkaur01/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anureetkaur01/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/anureetkaur01/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
